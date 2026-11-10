@@ -12,7 +12,7 @@
       "displayName": "FreeFlow Dictation",
       "source": {
         "source": "github",
-        "repo": "FreemanGT/freeflow-dictation-claude-plugin"
+        "repo": "freeflow-dictation/freeflow-dictation-claude-plugin"
       },
       "description": "Answer Claude Code's plan, question and permission prompts by voice. On-device, no network, powered by FreeFlow Dictation for macOS.",
       "author": {
@@ -21,7 +21,7 @@
         "url": "https://freeflow.audio"
       },
       "homepage": "https://freeflow.audio/claude-code",
-      "repository": "https://github.com/FreemanGT/freeflow-dictation-claude-plugin",
+      "repository": "https://github.com/freeflow-dictation/freeflow-dictation-claude-plugin",
       "license": "MIT",
       "keywords": [
         "voice",
